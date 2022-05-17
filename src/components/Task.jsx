@@ -5,7 +5,7 @@ import ListTask from "./ListTask";
 export const Task = () => {
   return (
     <div>
-      My ToDo Application Test!
+      My ToDo Application!
       <AddTask />
       <ListTask />
     </div>
